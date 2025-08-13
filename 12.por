@@ -1,6 +1,6 @@
 programa
 {
-	inclua biblioteca Matematica-->m
+	inclua biblioteca Matematica --> m
 	
 	funcao inicio()
 	{
@@ -16,6 +16,7 @@ programa
 		escreva("O maior número é", maior4)
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
